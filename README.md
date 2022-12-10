@@ -3,6 +3,6 @@ Contains sample files relating to our final project that focusses on variant cal
 1. Sample g.vcf
 2. Sample vcf
 3. Final multi sample vcf
-4. Final fasta alignment
+4. Final recoded fasta alignment
 5. raxml file
 **Note the gvcfs were merged to make the multi sample vcf
